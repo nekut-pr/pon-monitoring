@@ -1,0 +1,32 @@
+{
+  "name": "cdata",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@asigloo/vue-dynamic-forms": "^0.4.5",
+    "@innologica/vue-stackable-modal": "^0.1.9",
+    "axios": "^0.19.2",
+    "bootstrap-vue": "^2.17.3",
+    "chart.js": "^2.9.3",
+    "core-js": "^3.6.5",
+    "overlayscrollbars": "^1.13.0",
+    "sass": "^1.26.10",
+    "sass-loader": "^9.0.3",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^3.5.1",
+    "vue-router": "^3.3.4",
+    "vue-sidebar-menu": "^4.6.2",
+    "vuex": "^3.5.1",
+    "vuex-cache": "^3.3.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "bootstrap": "^4.5.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

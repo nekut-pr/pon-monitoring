@@ -1,0 +1,44 @@
+Thu Dec 17 16:15:29 2020 (1855) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (1854) DBD::mysql::st execute failed: Lost connection to MySQL server during query at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (1853) DBD::mysql::st execute failed: Lost connection to MySQL server during query at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (1851) DBD::mysql::st execute failed: Lost connection to MySQL server during query at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (1852) DBD::mysql::st execute failed: Lost connection to MySQL server during query at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (1914) DBD::mysql::st execute failed: Lost connection to MySQL server during query at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (5190) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (5102) DBD::mysql::st execute failed: MySQL server has gone away at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (5194) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (5099) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (5099) DBD::mysql::st execute failed: MySQL server has gone away at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (5195) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (5177) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (9579) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 16:15:29 2020 (5559) DBD::mysql::st execute failed: MySQL server has gone away at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 17:44:45 2020 (9938) DBD::mysql::st execute failed: Lost connection to MySQL server during query at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 17:44:45 2020 (9939) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 17:53:00 2020 (1127) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 17:53:00 2020 (29743) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 17:53:00 2020 (30329) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Thu Dec 17 17:53:00 2020 (29805) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
+Mon Dec 21 22:04:40 2020 (7264) DBD::mysql::st execute failed: Server shutdown in progress at /usr/local/share/perl/5.24.1/DBIx/Array.pm line 404.
+
